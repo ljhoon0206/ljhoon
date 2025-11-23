@@ -3,5 +3,4 @@ streamlit
 mediapipe
 streamlit-webrtc
 av
-time
 numpy
